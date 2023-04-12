@@ -1,3 +1,3 @@
 # OIBGRIP_TASK2
 
- link
+ link - https://shriparnabhattacharya.github.io/OIBGRIP_TASK2/
